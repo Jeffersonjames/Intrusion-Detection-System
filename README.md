@@ -23,3 +23,5 @@ against emerging threats.   In addition to generating alerts, IDSs can also take
 automated actions to respond to threats. However, these automated responses 
 should be carefully configured and tested to avoid disrupting legitimate traffic 
 or causing other unintended consequences.
+
+download and install Apache NetBeans, install java jdk , and run the main program in the Apache NetBeans.
